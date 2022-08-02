@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import { useNotificationRemovedFromChannelListener } from 'stream-chat-react';
 
 import { AddChannel } from '../assets';
 
